@@ -1,0 +1,59 @@
+
+body{
+background: lightgrey;
+background-image:url(websiteOne.jpg);
+background-repeat:no-repeat;
+border;
+}
+
+
+h1{
+  color: purple;
+  font-size: 5em;
+  margin: 0;
+  margin-bottom:7px;
+  padding: 4px;
+  text-align: center;
+  border-style:dashed;
+  border-width: 1px;
+  border-color: white;
+}
+
+
+h2{
+  color:purple;
+  border-width: thin;
+  border-style: dashed;
+  border-color: white;
+
+}
+
+h3{
+  color:purple;
+
+}
+
+h4{
+  color:purple;
+
+}
+
+h5{
+  color:purple;
+
+}
+
+p{
+    color: black;
+
+  }
+
+  a{
+    color:black;
+
+  }
+
+#cost{
+
+  color:dark purple;
+}
